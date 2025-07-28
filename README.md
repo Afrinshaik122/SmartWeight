@@ -19,7 +19,7 @@ SmartWeight is a simple and clean web app to help users track their body weight.
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/SmartWeight.git
+   git clone https://github.com/Afrinshaik122/SmartWeight.git
 
 2. Navigate into the project folder:
 
