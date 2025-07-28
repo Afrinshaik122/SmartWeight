@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom select dropdown styling */
+.custom-select {
+  background-image: none !important;
+  padding-right: 3rem !important;
+}
+
+.custom-select:focus {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
+}
+
+.dark .custom-select:focus {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1);
+}
